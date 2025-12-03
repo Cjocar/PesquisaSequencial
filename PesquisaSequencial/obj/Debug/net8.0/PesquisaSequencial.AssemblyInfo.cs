@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PesquisaSequencial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7835682986daae6e4e880533516972268e62c1d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("PesquisaSequencial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PesquisaSequencial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

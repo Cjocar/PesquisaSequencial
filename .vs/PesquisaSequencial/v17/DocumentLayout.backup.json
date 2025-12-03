@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\joao.ccsouza1\\source\\repos\\PesquisaSequencial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E89072A-08FF-4D35-B61E-754D35A5EEC1}|PesquisaSequencial\\PesquisaSequencial.csproj|c:\\users\\joao.ccsouza1\\source\\repos\\pesquisasequencial\\pesquisasequencial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E89072A-08FF-4D35-B61E-754D35A5EEC1}|PesquisaSequencial\\PesquisaSequencial.csproj|solutionrelative:pesquisasequencial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93FB7EFF-5375-45DF-9647-27237AA70E2D}|PesquisaSequencial\\PesquisaSequencial.csproj|c:\\users\\joao.ccsouza1\\source\\repos\\pesquisasequencial\\pesquisasequencial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FB7EFF-5375-45DF-9647-27237AA70E2D}|PesquisaSequencial\\PesquisaSequencial.csproj|solutionrelative:pesquisasequencial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\joao.ccsouza1\\source\\repos\\PesquisaSequencial\\PesquisaSequencial\\Program.cs",
               "RelativeDocumentMoniker": "PesquisaSequencial\\Program.cs",
-              "ToolTip": "C:\\Users\\joao.ccsouza1\\source\\repos\\PesquisaSequencial\\PesquisaSequencial\\Program.cs",
-              "RelativeToolTip": "PesquisaSequencial\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\joao.ccsouza1\\source\\repos\\PesquisaSequencial\\PesquisaSequencial\\Program.cs*",
+              "RelativeToolTip": "PesquisaSequencial\\Program.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T22:29:29.1Z",
+              "WhenOpened": "2025-12-02T23:54:59.771Z",
               "EditorCaption": ""
             }
           ]
